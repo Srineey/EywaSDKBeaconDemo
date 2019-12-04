@@ -1,0 +1,6 @@
+framework module Pods_EywaSDKDemo {
+  umbrella header "Pods-EywaSDKDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
